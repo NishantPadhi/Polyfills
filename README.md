@@ -1,3 +1,3 @@
 # Polyfills
 
-Polyfills for different JavaScript functions/methods.
+Polyfills for different JavaScript Functions / methods / utilities.
