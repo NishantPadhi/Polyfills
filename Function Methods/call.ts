@@ -31,7 +31,6 @@
  **/
 
 Function.prototype.mycall = function(obj, ...args){ 
-    console.log(this);
     let sym = Symbol();                                     
     obj[sym] = this;
     let res = obj[sym](...args)
